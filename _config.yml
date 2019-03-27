@@ -1,14 +1,10 @@
 ### your site title here
 
-title: Krishna
+title: Team 5458
 
-baseurl: /krishna
+baseurl: /
 sass: 
     style: compressed
-
-
-# Tracker
-analytics: UA-83979019-1
 
 
 exclude:
