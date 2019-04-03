@@ -345,6 +345,12 @@ footer {
     text-align: center;
 }
 
+.center-table {
+    > table, td, th {
+        text-align: center;
+    }
+}
+
 table {
     width: 100%;
     table-layout: fixed;
