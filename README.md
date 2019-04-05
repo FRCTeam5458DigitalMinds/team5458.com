@@ -47,3 +47,9 @@ z: name of the sponsor (replace spaces with -, use full names or official abbrev
 ```
 
 Sponsor images must be `275x160`.
+
+#### History
+
+History entries are located in `/_data/history/` and each year has its own file.
+
+History files are to be named based on the year they happened.

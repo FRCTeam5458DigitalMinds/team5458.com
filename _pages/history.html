@@ -1,0 +1,15 @@
+---
+layout: post
+title: History of 5458
+permalink: /history/
+---
+
+<p>Founded August 26, 2014, Team 5458 has built an amazing history over its 4 years.</p>
+
+{% for year in site.history %}
+
+<h2>{{year.year}}: {{year.name}}</h2>
+
+{{year.content | markdownify}}
+
+{% endfor %}

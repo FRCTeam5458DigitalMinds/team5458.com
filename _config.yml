@@ -18,3 +18,4 @@ include:
 collections_dir: data
 collections:
 - sponsors
+- history
