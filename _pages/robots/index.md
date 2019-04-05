@@ -4,5 +4,12 @@ title: Robots
 permalink: /robots/
 ---
 
-| - | - |
-| [![2019: Axon & Axoff]({{site.baseurl}}/images/robots/2019/axon-1.jpg) 2019: Axon & Axoff](/robots/2019/) |  |
+{:.center-table}
+| [![axon-image] 2019: Axon & Axoff][axon] |  |
+
+{::comment}
+LINK REFERENCES BELOW
+{:/comment}
+
+[axon]: /robots/2019/
+[axon-image]: /images/robots/2019/axon-1.jpg

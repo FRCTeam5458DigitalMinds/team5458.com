@@ -9,10 +9,19 @@ FRC Team 5458 Digital Minds is a FIRST Robotics team founded on August 26, 2014 
 
 <br>
 
-{:class="center-table"}
-| ----- | ----- | ----- | ----- | ----- |
-| <a href="/history/"><i class="fa fa-history" style="font-size: 3rem;"></i><br>History</a> | <a href="/about-first/"><i class="fas fa-shapes" style="font-size: 3rem;"></i><br>About FIRST</a> | <a href="/sponsors/"><i class="fas fa-hands-helping" style="font-size: 3rem;"></i><br>Sponsors</a> | <a href="/support/"><a href="{{site.baseurl}}/support/"><i class="fas fa-hand-holding-usd" style="font-size: 3rem;"></i><br>Support us</a> | <a href="/robots/"><i class="fas fa-robot" style="font-size: 3rem;"></i><br>Robots</a> |
+{:.center-table}
+| [<i class="fa fa-history" style="font-size: 3rem;"></i><br>History][history] | [<i class="fas fa-shapes" style="font-size: 3rem;"></i><br>About FIRST][about-first] | [<i class="fas fa-hands-helping" style="font-size: 3rem;"></i><br>Sponsors][sponsors] | [<i class="fas fa-hand-holding-usd" style="font-size: 3rem;"></i><br>Support us][support] | [<i class="fas fa-robot" style="font-size: 3rem;"></i><br>Robots][robots] |
 
 <br>
 
 *Our goal is to provide students with hands-on experience in STEM and serve as a productive learning environment that fosters collaborative skills in engineering and management.*
+
+{::comment}
+LINK REFERENCES BELOW
+{:/comment}
+
+[history]: /history/
+[about-first]: /about-first/
+[sponsors]: /sponsors/
+[support]: /support/
+[robots]: /robots/
