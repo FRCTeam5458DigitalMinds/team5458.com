@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div class="post-title">
     {% if page.icon %}
     <div class="logo">
@@ -12,7 +11,12 @@ layout: default
     </div>
     {% endif %}
     <div class="title">
-        <h2>{{page.title}}</h2>
+        <h1>
+        {% if page.parent %}
+        <a href="{{page.parent}}"><i class="fas fa-arrow-circle-left"></i></a>
+        {% endif %}
+        {{page.title}}
+        </h1>
         
         <span>
             <time datetime="">
