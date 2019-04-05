@@ -297,13 +297,11 @@ header > img {
 }
 
 .post-title {
-    display: table;
+    text-align: center;
 }
 
 .logo, .title {
-        display: table-cell;
         vertical-align: middle;
-        color: $brand-color;
     h2 {
         font-size: 1.8em;
         margin-bottom: 0;
