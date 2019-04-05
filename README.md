@@ -45,3 +45,5 @@ x: importance (0 is high, 6 is low)
 y: subimportance (0 is first, 9 is last, if more than 10, use a-z)
 z: name of the sponsor (replace spaces with -, use full names or official abbreviations
 ```
+
+Sponsor images must be `275x160`.
