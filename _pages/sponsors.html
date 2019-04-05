@@ -17,7 +17,7 @@ permalink: /sponsors/
     {% if sponsor.image %}
         <img src="/images{{sponsor.image}}" alt="{{sponsor.name}}"/>
     {% else %}
-        <h{{sponsor.importance}}>{{sponsor.name}}</h{{sponsor.importance}}>
+        <h{{sponsor.importance | plus: 1}}>{{sponsor.name}}</h{{sponsor.importance | plus: 1}}>
     {% endif %}
 
     {% if sponsor.link %}
