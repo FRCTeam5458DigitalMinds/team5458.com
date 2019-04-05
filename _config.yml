@@ -14,3 +14,7 @@ exclude:
 
 include: 
 - _pages
+
+collections_dir: data
+collections:
+- sponsors
