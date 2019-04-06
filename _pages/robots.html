@@ -1,0 +1,11 @@
+---
+layout: list
+title: Robots
+permalink: /robots/
+---
+
+{% for robot in site.robots %}
+
+<p style="font-size: 1.5em; font-weight: 700;"><a href="{{robot.url}}"><img src="{{robot.thumbnail}}" alt="{{robot.title}}" width=275/><br>{{robot.year}}: {{robot.title}}</a></p><br>
+
+{% endfor %}
