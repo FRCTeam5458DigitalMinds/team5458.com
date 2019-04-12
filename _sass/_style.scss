@@ -353,3 +353,64 @@ table {
     width: 100%;
     table-layout: fixed;
 }
+
+form {
+    input[type="text"], input[type="email"] {
+        width: -webkit-calc(100% - 52px);
+        width:    -moz-calc(100% - 52px);
+        width:         calc(100% - 52px);
+        font-size: 24px;
+        border: 2px solid rgba(0,0,0,0);
+        box-shadow: 0px 0px 7px $brand-color;
+        border-radius: 24px;
+        padding: 8px 24px;
+        margin: 6px 0;
+        background: none;
+        color: white;
+        transition: all 0.3s ease-in-out;
+        &:focus {
+            box-shadow: none;
+            border: 2px solid white;
+        }
+    }
+    textarea {
+        width: -webkit-calc(100% - 52px);
+        width:    -moz-calc(100% - 52px);
+        width:         calc(100% - 52px);
+        font-size: 24px;
+        border: 2px solid rgba(0,0,0,0);
+        box-shadow: 0px 0px 7px $brand-color;
+        border-radius: 24px;
+        border-bottom-right-radius: 0;
+        padding: 8px 24px;
+        margin: 6px 0;
+        resize: vertical;
+        font-family: inherit;
+        background: none;
+        color: white;
+        transition: all 0.3s linear;
+        &:focus {
+            box-shadow: none;
+            border: 2px solid white;
+        }
+    }
+    input[type="submit"] {
+        width: -webkit-calc(50% - 52px);
+        width:    -moz-calc(50% - 52px);
+        width:         calc(50% - 52px);
+        font-size: 24px;
+        border: 2px solid rgba(0,0,0,0);
+        box-shadow: 0px 0px 7px $brand-color;
+        border-radius: 24px;
+        padding: 8px 24px;
+        margin: 6px 0;
+        background: none;
+        color: white;
+        cursor: pointer;
+        transition: all 0.3s linear;
+        &:hover {
+            box-shadow: none;
+            border: 2px solid white;
+        }
+    }
+}
