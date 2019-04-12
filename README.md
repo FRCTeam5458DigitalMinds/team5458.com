@@ -4,6 +4,21 @@ This is based on the [Krishna](https://github.com/sharu725/krishna) theme.
 
 This website run on Jekyll and uses static site generation.
 
+## RUNNING LOCALLY
+
+1. Install [Ruby](https://www.ruby-lang.org/en/downloads/) if not already installed. 
+2. Install bundler
+   ```
+   $ gem install bundler
+   ```
+3. Pull or download this repository
+4. Run the Jekyll site
+    ```
+    $ bundle exec jekyll serve
+    ```
+5. The page will auto update while you make changes. Please make sure that you test desktop and mobile before pushing changes.
+
+
 ## FORMATTING
 
 ### Pages
@@ -13,10 +28,7 @@ ALL PAGES MUST:
 - Be in `/_pages/`
 - Have a title and a permalink
 - Be named the same as their permalink. `eg about-us.md for /about-us/`
-- All pages with child pages must be in their own folder with an index file inside
-  - Directory structure for a `/robots/` page with a `/robots/2019/` child page would be:
-    - `/_pages/robots/index.md`
-    - `/_pages/robots/2019.md`
+- Any pages with children pages should use data pages with `output: true` in `_config.yml`. The `permalink` variable in `_config.yml` should be `/<parent-page>/:name`
     
 #### Page Front Matter
 
