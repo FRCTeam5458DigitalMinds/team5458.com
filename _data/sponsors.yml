@@ -5,16 +5,8 @@
 # link - A hyperlink to the sponsor's website (O)
 # importance - A ranking system of how large to display the sponsor, 0 is more important than 5. (R)
 
-- name: Pioneer High School
-  link: https://phs.wjusd.org/
-  importance: 0
-
-- name: Woodland High School
-  link: https://whs.wjusd.org/
-  importance: 0
-
-- name: Yocha Dehe Wintun Nation
-  image: yocha-dehe.jpg
+- name: Yocha Dehe
+  image: yoche-dehe.jpg
   link: https://www.yochadehe.org/
   importance: 0
 
@@ -23,8 +15,7 @@
   link: https://www.clarkpacific.com/
   importance: 0
 
-- name: Tom & Meg Stallard
-  image: tom-and-meg-stallard.jpg
+- name: The Brin Wojcicki Foundation
   importance: 0
 
 - name: Armstrong Insurance
@@ -32,46 +23,44 @@
   link: https://www.armstrongprofessional.com/
   importance: 0
 
-- name: The Brin Wojcicki Foundation
-  importance: 0
-
 - name: Luna Vista Rotary Club
   link: https://portal.clubrunner.ca/4973/
   importance: 1
 
-- name: Woodland Rotary Club
-  link: http://www.woodlandrotary.org/
+- name: Meg & Tom Stallard
   importance: 1
 
-- name: Woodland Sunrise Rotary Club
-  link: http://www.woodlandsunriserotary.com/
-  importance: 1
+- name: Kiwani's Club
+  link: https://www.woodlandkiwanis.com/
+  importance: 2
+
+- name: Crist Group
+  link: http://cristgroup.com/
+  importance: 2
+
+- name: BZ Bee Pollination Inc.
+  importance: 2
+
+- name: Penrose Family
+  importance: 3
 
 - name: Blue Wing Gallery
   link: http://bluewinggallery.com/
-  importance: 2
+  importance: 3
 
-- name: Craig & Karen Penrose
-  importance: 2
+- name: Ed Ochoa Family Properties
+  importance: 4
 
 - name: Corner Drug Co.
   link: https://cornerdrugco.com/
-  importance: 2
+  importance: 4
 
 - name: Ponticello Enterprises
   link: http://ponticelloinc.com/
-  importance: 2
+  importance: 4
 
-- name: Ed Ochoa Family Properties
-  importance: 3
-  
-- name: Yolo Machinery Erectors
-  importance: 3
+- name: Mulugeta Tamene
+  importance: 4
 
-- name: Woodland Schools Foundation
-  link: https://www.woodlandschoolsfoundation.org/
-  importance: 3
-
-- name: Citrus Circuits
-  link: https://www.citruscircuits.org/
-  importance: 3
+- name: Pat Garrison
+  importance: 4
