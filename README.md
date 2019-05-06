@@ -46,16 +46,16 @@ ALL IMAGES MUST:
 
 #### Sponsors
 
-Sponsors are located in `/_data/sponsors/` and each have their own file.
+Sponsors are located in `/_data/sponsors.yml`
 
-Sponsor files are to be named accordingly:
+Sponsor entries are to be made accordingly:
 
 ```
-xy-zzzz.md
-
-x: importance (0 is high, 5 is low)
-y: subimportance (0 is first, 9 is last, if more than 10, use a-z)
-z: name of the sponsor (replace spaces with -, use full names or official abbreviations
+# (R) - Required, (O) - Optional
+# name - The display name of the sponsor (R)
+# image - The image to display for the sponsor (O)
+# link - A hyperlink to the sponsor's website (O)
+# importance - A ranking system of how large to display the sponsor, 0 is more important than 5. (R)
 ```
 
 Sponsor images must be `275x160`.
