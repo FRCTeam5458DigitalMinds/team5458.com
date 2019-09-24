@@ -40,3 +40,15 @@ If you would like to support us, please make out a check to the `Davis Robotics 
 ### Byte Sponsor: $499 and below
 
 - Website: Small logo/name
+
+## Donations
+
+### We also accept physical donations including:
+
+- Safety Glasses 
+- Ear Plugs
+- Gaffers Tape
+
+### Our full Amazon Wish-List is at the following link: 
+
+[Amazon.com](https://www.amazon.com/hz/wishlist/ls/2U1PPZ8LKOBZI/ref=hz_ls_biz_ex?pldnSite=1)
