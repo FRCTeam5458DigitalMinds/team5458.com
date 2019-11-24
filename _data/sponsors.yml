@@ -14,6 +14,11 @@
   image: clark-pacific.jpg
   link: https://www.clarkpacific.com/
   importance: 0
+  
+  name: Bayer Monsanto
+  image: bayer_monsanto.jpg
+  link: https://monsanto.com/
+  importance: 0
 
 - name: The Brin Wojcicki Foundation
   importance: 0
@@ -21,6 +26,11 @@
 - name: Armstrong Insurance
   image: armstrong-insurance.jpg
   link: https://www.armstrongprofessional.com/
+  importance: 0
+  
+  name: Four Wheel
+  link: https://fourwheelcampers.com/
+  image: four-wheel.jpg
   importance: 0
 
 - name: Luna Vista Rotary Club
