@@ -4,24 +4,25 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-<p>We thank all our past and current sponsors for supporting us in our competitions. Their generous contributions have ensured the team’s success and continuity.</p>
+<p>We thank all our past and current sponsors for supporting us in our competitions. Their generous contributions have
+    ensured the team’s success and continuity.</p>
 
 <p>If you’d like to support Team 5458, please visit the <a href="/support">Support 5458 page</a>.</p>
 
 {% for sponsor in site.data.sponsors %}
-    <p>
+<p>
     {% if sponsor.link %}
-        <a href="{{sponsor.link}}">
-    {% endif %}
+    <a href="{{sponsor.link}}">
+        {% endif %}
 
-    {% if sponsor.image %}
-        <img src="/images/sponsors/{{sponsor.image}}" alt="{{sponsor.name}}"/>
-    {% else %}
+        {% if sponsor.image %}
+        <img src="/images/sponsors/{{sponsor.image}}" alt="{{sponsor.name}}" style="width: 275px;" />
+        {% else %}
         <h{{sponsor.importance | plus: 1}}>{{sponsor.name}}</h{{sponsor.importance | plus: 1}}>
-    {% endif %}
+        {% endif %}
 
-    {% if sponsor.link %}
-        </a>
+        {% if sponsor.link %}
+    </a>
     {% endif %}
-    </p>
+</p>
 {% endfor %}
