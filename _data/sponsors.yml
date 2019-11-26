@@ -27,11 +27,6 @@
   image: armstrong-insurance.jpg
   link: https://www.armstrongprofessional.com/
   importance: 0
-  
-  name: Four Wheel
-  link: https://fourwheelcampers.com/
-  image: four-wheel.jpg
-  importance: 0
 
 - name: Luna Vista Rotary Club
   link: https://portal.clubrunner.ca/4973/
@@ -50,6 +45,10 @@
 
 - name: BZ Bee Pollination Inc.
   importance: 2
+  
+  name: Four Wheel
+  link: https://fourwheelcampers.com/
+  importance: 3
 
 - name: Penrose Family
   importance: 3
