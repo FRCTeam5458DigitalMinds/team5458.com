@@ -27,6 +27,11 @@
   image: armstrong-insurance.jpg
   link: https://www.armstrongprofessional.com/
   importance: 0
+  
+  name: Yolo Federal Credit Union
+  image: yolo.png
+  link: https://www.yolofcu.org/
+  importance: 2
 
 - name: Luna Vista Rotary Club
   link: https://portal.clubrunner.ca/4973/
