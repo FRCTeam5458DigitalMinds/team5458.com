@@ -32,9 +32,18 @@
   image: yolo.png
   link: https://www.yolofcu.org/
   importance: 2
+  
+  name: Yolo Ice & Creamery
+  image: Yolo Ice & Creamery.jpg
+  link: http://www.yoloiceandcreamery.com/
+  importance: 3
 
 - name: Luna Vista Rotary Club
   link: https://portal.clubrunner.ca/4973/
+  importance: 1
+  
+  name: Yolo Machinery Erectors
+  link: https://woodlandchamber.org/directory/engineers/yolo-machinery-erectors-inc/
   importance: 1
 
 - name: Meg & Tom Stallard
