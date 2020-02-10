@@ -2,7 +2,7 @@ title: Team 5458
 
 baseurl: ""
 url: "0.0.0.0"
-sass: 
+sass:
     style: compressed
 
 markdown: kramdown
@@ -10,7 +10,7 @@ markdown: kramdown
 exclude:
 - README.md
 
-include: 
+include:
 - _pages
 
 collections_dir: data
@@ -22,3 +22,6 @@ collections:
   robots:
     output: true
     permalink: /robots/:name
+  images:
+    output: true
+    permalink: /images/:name
