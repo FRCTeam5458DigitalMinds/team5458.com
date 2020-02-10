@@ -8,7 +8,7 @@ FRC Team 5458 Digital Minds is a FIRST Robotics team founded on August 26, 2014 
 <br>
 
 {:.center-table}
-| [<i class="fa fa-history" style="font-size: 3rem;"></i><br>History][history] | [<i class="fas fa-shapes" style="font-size: 3rem;"></i><br>About FIRST][about-first] | [<i class="fas fa-hands-helping" style="font-size: 3rem;"></i><br>Sponsors][sponsors] | [<i class="fas fa-hand-holding-usd" style="font-size: 3rem;"></i><br>Support us][support] | [<i class="fas fa-robot" style="font-size: 3rem;"></i><br>Robots][robots] |
+| [<i class="fa fa-history" style="font-size: 3rem;"></i><br>History][history] | [<i class="fas fa-shapes" style="font-size: 3rem;"></i><br>About FIRST][about-first] | [<i class="fas fa-hands-helping" style="font-size: 3rem;"></i><br>Sponsors][sponsors] | [<i class="fas fa-hand-holding-usd" style="font-size: 3rem;"></i><br>Support us][support] | [<i class="fas fa-robot" style="font-size: 3rem;"></i><br>Robots][robots] | [<i class="far fa-images" style="font-size: 3rem;"></i><br>Images][images] |
 
 <br>
 
@@ -23,3 +23,4 @@ LINK REFERENCES BELOW
 [sponsors]: /sponsors/
 [support]: /support/
 [robots]: /robots/
+[images]: /images/
