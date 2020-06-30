@@ -3,7 +3,7 @@ layout: post
 title: Summer Camps
 permalink: /summercamps/
 ---
-## Note: Due to the continued issues surrounding the outbreak of COVID-19, all summer camps have been canceled.
+## *Note: Due to the continued issues surrounding the outbreak of COVID-19, all summer camps have been canceled.*
 
 ### Every summer, Digital Minds holds robotics summer camps to give students entering grades 4-8 hands-on experience in STEM through project-based challenges with their peers. We hold introductory and intermediate sessions to cater to students with different levels of experience.
 
