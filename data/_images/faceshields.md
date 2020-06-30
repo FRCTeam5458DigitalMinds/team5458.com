@@ -12,7 +12,7 @@ year: 2020
 
 [![header]][header]{:data-fancybox="gallery"}
 
-| [![header]][header]{:data-fancybox="gallery"} | [![image1]][image1]{:data-fancybox="gallery"} |
+| [![header]][header]{:data-fancybox="gallery"} | [![image0]][image0]{:data-fancybox="gallery"} |
 | [![image2]][image2]{:data-fancybox="gallery"} | [![image3]][image3]{:data-fancybox="gallery"} |
 
 
@@ -21,6 +21,6 @@ LINK REFERENCES BELOW
 {:/comment}
 
 [header]: /images/header.JPG
-[image1]: /images/image0.JPG
+[image0]: /images/image0.JPG
 [image2]: /images/image2.JPG
-[image3]: /images/heade3.JPG
+[image3]: /images/header.JPG
