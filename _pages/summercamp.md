@@ -12,6 +12,7 @@ permalink: /summercamps/
 ## The registration form is attached below. Please contact Creed Watts at creed.watts@wjusd.org if you have any questions.
 
 
-<iframe src="https://github.com/FRCTeam5458DigitalMinds/team5458.com/raw/AyantuT-patch-1/data/_images/Robotics%20Summer%20Camp%202021%20(fillable).pdf &embedded=true" style="width:100%; height:100%;" frameborder="0" allowfullscreen></iframe>
+<a href="https://github.com/FRCTeam5458DigitalMinds/team5458.com/raw/AyantuT-patch-1/data/_images/Robotics%20Summer%20Camp%202021%20(fillable).pdf" target="_blank">Registration Form PDF.</a>
+
 
 
