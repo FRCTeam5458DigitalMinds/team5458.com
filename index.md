@@ -16,6 +16,7 @@ FRC Team 5458 Digital Minds is a FIRST Robotics team founded on August 26, 2014 
 
 [Daily Democrat Article](https://www.dailydemocrat.com/2021/05/30/pioneer-robotics-team-reaches-international-semifinal/)
 [![header0]][header0]{:data-fancybox="gallery"}
+[![header1]][header1]{:data-fancybox="gallery"}
 
 {::comment}
 LINK REFERENCES BELOW
