@@ -6,6 +6,7 @@ sass:
     style: compressed
 
 markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 exclude:
 - README.md
