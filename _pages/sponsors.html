@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: single
 title: Sponsors
 permalink: /sponsors/
 ---
@@ -16,7 +16,7 @@ permalink: /sponsors/
         {% endif %}
 
         {% if sponsor.image %}
-        <img src="/images/sponsors/{{sponsor.image}}" alt="{{sponsor.name}}" style="width: 275px;" />
+        <img src="/images/sponsors/{{sponsor.image}}" alt="{{sponsor.name}}" style="width: 525px;" />
         {% else %}
         <h{{sponsor.importance | plus: 1}}>{{sponsor.name}}</h{{sponsor.importance | plus: 1}}>
         {% endif %}
