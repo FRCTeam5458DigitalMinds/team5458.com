@@ -1,54 +1,54 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} - {{site.title}}</title>
-  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
-  <!--   Syntax highlighting is only needed for posts -->
-  {% if page.layout == 'post' %}
-  <link rel="stylesheet" href="{{site.baseurl}}/css/syntax-highlighter.css">
-  {% endif %}
-  <link href="//fonts.googleapis.com/css?family=Noto+Sans|Work+Sans:700" rel="stylesheet">
-</head>
-<body>
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-<input type="checkbox" id="hamburger" name="hamburger">
-<label id="label-ham" for="hamburger"></label>
-<div class="menu-container">
-  <div class="menu"></div>
-  <div class="links">
-      <a href="{{site.baseurl}}/"><i class="fa fa-home"></i>&nbsp;Home</a>
-      <a href="{{site.baseurl}}/history/"><i class="fa fa-history"></i>&nbsp;History</a>
-      <a href="{{site.baseurl}}/about-first/"><i class="fas fa-shapes"></i>&nbsp;About FIRST</a>
-      <a href="{{site.baseurl}}/sponsors/"><i class="fas fa-hands-helping"></i>&nbsp;Sponsors</a>
-      <a href="{{site.baseurl}}/support/"><i class="fas fa-hand-holding-usd"></i>&nbsp;Support us</a>
-      <a href="{{site.baseurl}}/robots/"><i class="fas fa-robot"></i>&nbsp;Robots</a>
-      <a href="{{site.baseurl}}/images/"><i class="far fa-images"></i>&nbsp;Images</i>
-  </div>
-</div>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-<div class="content">
-<header>
-     <img src="{{site.baseurl}}/images/digital-minds.svg" alt="Digital Minds Logo" style="width: 300px;"/>
-     <a href="{{site.baseurl}}/"><h1 class="site-title">{{site.title}}</h1></a>
-     <a href="{{site.baseurl}}/"><h2 class="site-subtitle">Digital Minds</h1></a>
-</header>
-  {{ content }}
-  
-    <footer>
-      <h4><a href="/calendar/"><i class="fas fa-calendar-alt"></i>&nbsp;Calendar</a></h4><br>
-      <strong><a href="/contact/"><i class="fa fa-envelope"></i>&nbsp;Contact us</a></strong><br><br>
-      <a href="https://www.facebook.com/frc5458/"><i class="fab fa-facebook-f"></i>&nbsp;Facebook</a>&nbsp;&nbsp;
-      <a href="https://github.com/frcteam5458digitalminds"><i class="fab fa-github"></i>&nbsp;Github</a>&nbsp;&nbsp;
-      <a href="https://www.snapchat.com/add/digital_minds"><i class="fab fa-snapchat"></i>&nbsp;Snapchat</a>&nbsp;&nbsp;
-      <a href="https://www.instagram.com/frc5458/"><i class="fab fa-instagram"></i>&nbsp;Instagram</a>&nbsp;&nbsp;
-  </footer>
-</div>
-  <!-- Calling Fontawesome at the end to avoid delay in loading --> 
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-  <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-  <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-</body>
+    <div class="initial-content">
+      {{ content }}
+      <div align="center" style="margin: 1em 0;">
+        <ins class="adsbygoogle"
+             style="display:block; border-bottom: initial;"
+             data-ad-client="ca-pub-7328585512091257"
+             data-ad-slot="3049671934"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+      </div>
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+    <style>
+      .google-auto-placed {
+        margin: 2em auto;
+      }
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+  </body>
 </html>
