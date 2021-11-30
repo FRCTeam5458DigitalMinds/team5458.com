@@ -1,8 +1,5 @@
-_site/
-.sass-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-
-# ONLY IGNORED FOR LOCAL DEVELOPMENT, DO NOT DELETE _config.yml!!!
-_config.yml
-
-\.DS_Store
+vendor
