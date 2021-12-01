@@ -1,0 +1,20 @@
+main:
+  - title: "About Us"
+    url: /about/
+  - title: "History"
+    url: /history/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Support Us"
+    url: /support/
+  - title: "Posts"
+    url: /posts-archive/
+  - title: "Images"
+    url: /images/
+  - title: "Robots"
+    url: /robots/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Calendar"
+    url: /calendar/
+  
