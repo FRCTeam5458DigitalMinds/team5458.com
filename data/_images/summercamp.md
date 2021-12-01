@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer Camp Photos
+title: Summer Camp Photos 2019
 parent: /images/
 thumbnail: /images/summercamp/header.jpg
 year: 2019
