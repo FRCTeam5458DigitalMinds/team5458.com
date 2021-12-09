@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Summer Camps
 permalink: /summercamps/
 ---
