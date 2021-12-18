@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 
 # Build settings
 plugins:
