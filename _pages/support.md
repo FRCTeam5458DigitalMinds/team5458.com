@@ -8,9 +8,9 @@ Team 5458 is a robotics team based in Woodland, CA. Digital Minds introduces stu
 
 In 2018, Digital Minds strived to expand outreach within the Woodland community with goals of inspiring younger students to engage in STEM activties. Digital Minds offers a Robotics Summer Camp for students, grades 4-8. The week-long camp takes students through a project-based challenge, in which students learn how to design, build and program a robot. The program features a fun and interactive competition with peers where students have the opportunity to put their creations to the test. Through the experience, students developed skills such as communication, patience, teamwork, and interacting with others.
 
-## Woodland Schools Foundation
-## PMB 104, 1296 E. Gibson Rd.
-## Woodland, CA 95776
+#### Woodland Schools Foundation
+#### PMB 104, 1296 E. Gibson Rd.
+#### Woodland, CA 95776
 
 If you would like to support us, please make out a check to the `Woodland Schools Foundation` with a memo stating `Digital Minds`, using the mailing address above. Their Tax-ID number is `81-4194986`.
 
