@@ -15,7 +15,7 @@ FRC Team 5458 Digital Minds is a FIRST Robotics team founded on August 26, 2014 
 *Our goal is to provide students with hands-on experience in STEM and serve as a productive learning environment that fosters collaborative skills in engineering and management.*
 
 [Go Fund Me Link](https://www.gofundme.com/f/team-5458-first-robotics-world-championships?utm_campaign=p_cf+share-flow-1&utm_medium=copy_link&utm_source=customer)
-<img src="SacPicture.jpg" alt="SacPicture">
+<img src="/images/SacPicture.jpg" alt="SacPicture">
 
 {::comment}
 LINK REFERENCES BELOW
