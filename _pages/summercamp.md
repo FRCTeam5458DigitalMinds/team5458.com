@@ -11,7 +11,7 @@ permalink: /summercamps/
 
 ### The flyer/registration form with more details about the various sessions is attached below. Please contact Creed Watts at creed.watts@wjusd.org if you have any questions.
 
-<a href="https://github.com/FRCTeam5458DigitalMinds/team5458.com/blob/21baab87c35188dd10774c7f7f9522769631dfb1/data/_images/Robotics%20Summer%20Camp%20(English%20&%20Spanish)%202022.pdf" target="_blank">Registration Form PDF.</a>
+<a href="https://drive.google.com/file/d/13UzCnYAkizVUZJ2Xne11WUhQtpCem6wd/view?usp=sharing" target="_blank">Registration Form PDF.</a>
 
 
 
