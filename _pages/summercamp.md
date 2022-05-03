@@ -6,9 +6,11 @@ permalink: /summercamps/
 
 ## 2022 Digital Minds Summer Camps
 
-### What: Summer robotics camp for local youth
-### Who: Incoming 4th – 8th grade students
-### Where: Douglass Middle School
+#### What: Summer robotics camp for local youth
+#### Who: Incoming 4th – 8th grade students
+#### Where: Douglass Middle School
+Fill out this Google Form to register: 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeDoL5aMcuSPOWI_rw8eYgvkXhvgHpDAfPvMXV6tyTHZ6dtPA/viewform" target="_blank">Registration Form</a>
 
 ## Introductory Robotics:
 ### Session 1: July 18 – 22, 9am – 3pm
@@ -27,9 +29,6 @@ This camp is geared towards those students who already have some robotics experi
      
 Because of limited space, spots are reserved on a first come/first served basis as registrations are received.
 For further information, contact Creed Watts, creed.watts@wjusd.org.
-
-Fill out this Google Form to register for the camp: 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeDoL5aMcuSPOWI_rw8eYgvkXhvgHpDAfPvMXV6tyTHZ6dtPA/viewform" target="_blank">Registration Form</a>
 
 
 
