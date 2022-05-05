@@ -23,14 +23,16 @@ This camp is geared towards those students who already have some robotics experi
 
 ### Registration is FREE for WJUSD students and $200.00 for other students (Check payable to Digital Minds Robotics).
 #### Payment for non WJUSD students can be mailed to:
+<font color="white">
+     
 >    Digital Minds Robotics
 
 >    1400 Pioneer Ave
 
 >    Woodland, CA 95776
+     
+</font>
 
-     
-     
 Because of limited space, spots are reserved on a first come/first served basis as registrations are received.
 For further information, contact Creed Watts, creed.watts@wjusd.org.
 
