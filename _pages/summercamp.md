@@ -26,11 +26,9 @@ This camp is geared towards those students who already have some robotics experi
 <blockquote>
 <font color="white">
      
-Digital Minds Robotics
-     
-1400 Pioneer Ave
-     
-Woodland, CA 95776
+Digital Minds Robotics <br>
+1400 Pioneer Ave <br>
+Woodland, CA 95776 <br>
      
 </font>
 </blockquote>
