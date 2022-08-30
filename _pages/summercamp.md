@@ -3,28 +3,46 @@ layout: single
 title: Summer Camps
 permalink: /summercamps/
 ---
-## 2021 Digital Minds Summer Camps
 
-### Session 1 (Introductory Camp): June 21-25
-### Session 2 (Introductory Camp): June 28-July 2
-### Session 3 (Intermediate Camp): July 5-9
+## 2022 Digital Minds Summer Camps
 
-### Health & Safety protocols that will be in place during the camps:
-- All participants and staff will be required to properly wear face masks at all times.
-- Participants will work individually to build their robots. There will be exceptions to this. Parents/Guardians can request that their child be paired with a specific partner, such as a sibling. 
-- Participant work stations will be separated around the room at least 3 feet apart per current CDC classroom guidelines.
-- The staff and participants will be required to wash their hands (or use hand sanitizer) upon entering or re-entering the room. Hand sanitizer stations are located at the 2 classroom entrances, plus there are multiple sinks with soap dispensers in the room.  
-- There is a registration cap to enable social distancing within the classroom.
+#### What: Summer robotics camp for local youth
+#### Who: Incoming 4th – 8th grade students
+#### Where: Douglass Middle School
+Fill out this Google Form to register: 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeDoL5aMcuSPOWI_rw8eYgvkXhvgHpDAfPvMXV6tyTHZ6dtPA/viewform" target="_blank">Registration Form</a>
 
-## The flyer and registration form are attached below. Please contact Creed Watts at creed.watts@wjusd.org if you have any questions.
+## Introductory Robotics:
+### Session 1: July 18 – 22, 9am – 3pm
+### Session 2: July 25 – 29, 9am – 3pm
+In this camp, students develop science, math, engineering and programming skills through various hands-on projects, including a culminating competition. As an introductory camp, this camp is perfect for kids with little or no robotics experience.
 
-<a href="https://drive.google.com/file/d/1Z4C7VkXy3myfAjhZHWSJM2zauY3MdiEu/view?usp=sharing" target="_blank">Flyer PDF </a>
+## Intermediate Robotics:
+### Session 3: August 1 - 5, 9am – 3pm
+This camp is geared towards those students who already have some robotics experience. The students will have more freedom as they design and build their more rigorous projects. Session 3 participants will also be introduced to 3D printing.
 
-[Registration Form](https://forms.gle/yc1ewv76fR97oRWU9)
+### Registration is FREE for WJUSD students and $200.00 for other students (Check payable to Digital Minds Robotics).
+#### Payment for non WJUSD students can be mailed to:
+<blockquote>
+<font color="white">
+     
+Digital Minds Robotics <br>
+1400 Pioneer Ave <br>
+Woodland, CA 95776 <br>
+     
+</font>
+</blockquote>
 
-## If you prefer a distance learning experience, the Davis Robotics team, Citrus Circuits, is offering a remote summer camp. See the link below for more information.
+Because of limited space, spots are reserved on a first come/first served basis as registrations are received.
+For further information, contact Creed Watts, creed.watts@wjusd.org.
 
-[DYR RoboCamps](https://www.citruscircuits.org/robocamps.html)
+
+
+
+
+
+
+
 
 
 
