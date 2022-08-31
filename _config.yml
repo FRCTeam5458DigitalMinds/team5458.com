@@ -1,6 +1,7 @@
 
 
 remote_theme: mmistakes/minimal-mistakes
+repository: FRCTeam5458DigitalMinds/team5458.com
 
 # Build settings
 plugins:
