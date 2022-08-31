@@ -1,41 +1,28 @@
----
----
 
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
   </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-    {% include_cached skip-links.html %}
-    {% include_cached masthead.html %}
-
-    <div class="initial-content">
       {{ content }}
+
+      {% endif %}
     </div>
-
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include_cached search/search_form.html %}
-      </div>
-    {% endif %}
-
-    <div id="footer" class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
   </body>
 </html>
