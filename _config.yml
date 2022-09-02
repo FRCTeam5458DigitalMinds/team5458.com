@@ -1,7 +1,6 @@
 
 
-remote_theme: mmistakes/minimal-mistakes
-repository: FRCTeam5458DigitalMinds/team5458.com
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
 # Build settings
 plugins:
@@ -21,7 +20,7 @@ subtitle                 : # site tagline that appears below site title in masth
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : FRCTeam5458DigitalMinds/team5458.com
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "digital minds logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
