@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#E8E8E8"
+  overlay_image: /images/ROBITICSWIN.jpg
   text_color: "#8b0000"
 excerpt:
   <p style="color:black;font-size:28px">
