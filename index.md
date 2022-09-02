@@ -13,6 +13,7 @@ feature_row:
   - image_path: images/digitalminds.png
   - image_path: images/firstlogo.png
 ---
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
