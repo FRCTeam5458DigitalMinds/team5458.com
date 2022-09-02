@@ -17,7 +17,5 @@ feature_row:
 
 {% include feature_row %}
 
-<img src="/images/download.jpg" alt="Team Picture">
-
 
 
