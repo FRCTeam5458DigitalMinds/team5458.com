@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title: Support us
 permalink: /support/
+toc: true
 ---
+
+*1400 Pioneer Ave, Woodland, CA 95776*
 
 Team 5458 is a robotics team based in Woodland, CA. Digital Minds introduces students to the fields of Science, Technology, Engineering, and Mathematics. Students build leadership and communication skills while working with fellow students. We open for pathways for students to succeed in both STEM and business fields by using real hands-on experience alongside professionals. Team 5458 is an inclusive environment where everyone is welcome.
 
