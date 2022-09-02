@@ -7,7 +7,7 @@ header:
   overlay_image: /images/SacPicture.jpg
 excerpt: FRC Team 5458 Digital Minds is a FIRST Robotics team founded on August 26, 2014 when the Davis High School’s FIRST Robotics team, 1678 Citrus Circuits introduced their passion for robotics to the Woodland High School and Pioneer High School students.
 intro: 
-  - excerpt: 'Our goal is to provide students with hands-on experience in STEM and serve as a productive learning environment that fosters collaborative skills in engineering and management.' 
+  - excerpt: 'Our goal is to provide students with hands-on experience in STEM and serve as a productive learning environment that fosters collaborative skills in engineering and management. To learn more about us and FIRST, visit the About Us page.'
 feature_row:
   - image_path: images/frclogo.png
   - image_path: images/digitalminds.png
@@ -16,6 +16,8 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+Check out the <a href="https://www.team5458.com/posts-archive/">Posts</a> and <a href="https://www.team5458.com/calendar/">Calendar</a> pages to learn more about our current activities!
 
 
 
