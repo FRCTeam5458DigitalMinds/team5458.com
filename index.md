@@ -1,7 +1,7 @@
 ---
+title: FRC Team 5458: Digital Minds
 layout: splash
 permalink: /
-hidden: true
 header:
   overlay_color: "#E8E8E8"
   overlay_image: /images/ROBITICSWIN.jpg
