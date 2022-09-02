@@ -17,7 +17,7 @@ feature_row:
 
 {% include feature_row %}
 
-Check out the <a href="https://www.team5458.com/posts-archive/">Posts</a> and <a href="https://www.team5458.com/calendar/">Calendar</a> pages to learn more about our current activities!
+<img src="/images/download.jpg" alt="Team Picture">
 
 
 
