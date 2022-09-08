@@ -96,7 +96,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "frc5458@gmail.com"
+      url: "mailto:frc5458@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/frc5458/"
