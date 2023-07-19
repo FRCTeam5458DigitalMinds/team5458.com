@@ -16,24 +16,25 @@ Woodland, CA 95776</p>
 ### Terabyte Sponsor: $5,000 and up
 
 - Robot: Large logo of business
-- Banner: Sponsor’s logo/ name
+- T Shirt: Large Name/logo of business/sponsor
 - Website: Large logo/name
 - Team Picture/Plaque
 
 ### Gigabyte Sponsor: $2,500 to $4,999
 
 - Robot: Medium-sized logo of business
-- Banner: Sponsor’s logo/name
+- T Shirt: Medium Name/logo of business/sponsor
 - Website: Medium logo/name
 
 ### Megabyte Sponsor: $1,000 to $2,499
 
 - Robot: Small logo of business
+- T Shirt: Small Name/logo of business/sponsor
 - Website: Small logo/name
 
 ### Kilobyte Sponsor: $500 to $999
 
-- T Shirt: Name of business/sponsor
+- T Shirt: Small Name/logo of business/sponsor
 - Website: Small logo/name
 
 ### Byte Sponsor: $499 and below
