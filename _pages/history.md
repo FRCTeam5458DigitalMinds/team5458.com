@@ -5,7 +5,14 @@ permalink: /history/
 toc: true
 ---
 
-Founded August 26, 2014, Team 5458 has built an amazing history over its 7 years.
+Founded August 26, 2014, Team 5458 has built an amazing history over its 9 years.
+
+## 2022: Rapid React
+In the 2022 season, our team made a triumphant return to in-person activities after a period of remote engagement due to the pandemic. Our journey began at the Sac Regionals, where we initially ranked 35th out of 43 teams due to a tough match schedule. However, our strengths were seen and we were selected by the first-ranked alliance, ultimately securing 1st place at Sac after overcoming numerous challenging matches. This achievement qualified us to the Houston competition.
+Our next regional event took place at the Silicon Valley regionals in San Jose, where we didn't advance beyond the qualifications but still managed to secure a commendable 24th place out of 59 teams. As we ventured into the World Championship in Houston, Texas, as part of the Newton Division, our ranking didn't soar, but the experience was a memorable one as we had the opportunity to collaborate with teams from around the globe, fostering a global spirit of camaraderie.
+During the off-season, we actively participated in the Capital City Classic, achieving an impressive 7th place out of 33 competing teams. We also had the privilege of captaining the 4th alliance and progressing to the quarter-finals, showcasing our team's resilience and strategic prowess.
+Moreover, our team took part in the 2022 CADathon, where our dedicated members invested countless hours in designing a robot, ultimately securing 1st place among 34 other participating teams, an outstanding accomplishment that highlights our commitment to innovation and excellence.
+Finally, during the off-season, we hosted a summer camp for younger students eager to explore STEM education. This initiative not only offered valuable learning opportunities but also encouraged the development of fresh ideas within our community, fostering a sense of growth and collaboration among aspiring young minds.
 
 ## 2021: FRC At Home
 Despite not being able to attend competitions, meet in person during the season (January-April), or build a robot this year, team 5458 made the most of these unique 
