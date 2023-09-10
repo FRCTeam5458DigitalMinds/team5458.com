@@ -53,6 +53,3 @@ rank before the end of the competition– finishing in the top third of the fiel
 On March 21, 2015, Team 5458 won finals and the Rookie All-Star Award at the Sacramento Regional in UC Davis. The award recognized us for being 
 a first year team and our dedication to STEM (Science, Technology, Engineering and Mathematics) education. This double qualified us for the FIRST 
 World Championship in St. Louis, Missouri, a rare opportunity that only 600 out of over 3,000 FRC teams were able to experience.
-
-
-Testing -- please ignore
