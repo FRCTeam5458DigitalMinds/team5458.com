@@ -1,9 +1,15 @@
+
 ---
 layout: single
 title: Robots
 toc: true
 permalink: /robots/
 ---
+## 2023 - Cranium
+Cranium is our 2023 competition robot for Charged Up
+
+[!cranuium-1] {:data-fancybox=""}
+
 
 ## 2019 - Axon & Axoff
 Axon is our 2019 competition robot for Destination: Deep Space.
@@ -47,3 +53,12 @@ LINK REFERENCES BELOW
 [Mini CIMs]: https://www.vexrobotics.com/217-3371.html
 [Colson Performa]: https://www.colsoncaster.com/wheel/performa-conductive/
 [DuraOmni]: https://www.andymark.com/products/4-in-duraomni-wheel
+
+[cranium-1]: /images/robots/2023/2023CraniumDefalt.png
+
+
+
+## 2018 - CNS
+CNS is our 2018 competition robot for Power Up
+
+
