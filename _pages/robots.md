@@ -8,7 +8,7 @@ permalink: /robots/
 ## 2023 - Cranium
 Cranium is our 2023 competition robot for Charged Up
 
-[!cranuium-1] {:data-fancybox=""}
+[![cranuium-1]][cranium-1-full]{:data-fancybox=""}
 
 
 ## 2019 - Axon & Axoff
@@ -55,6 +55,7 @@ LINK REFERENCES BELOW
 [DuraOmni]: https://www.andymark.com/products/4-in-duraomni-wheel
 
 [cranium-1]: /images/robots/2023/2023CraniumDefalt.png
+[cranium-1-full]: /images/robots/2023/2023CraniumDefalt-full.png
 
 
 
