@@ -8,7 +8,7 @@ permalink: /robots/
 ## 2023 - Cranium
 Cranium is our 2023 competition robot for Charged Up
 
-[![cranuium-1]][cranium-1-full]{:data-fancybox=""}
+[![cranium-1]][cranium-1-full]{:data-fancybox=""}
 
 
 ## 2019 - Axon & Axoff
