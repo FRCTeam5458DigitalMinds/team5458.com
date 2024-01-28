@@ -1,6 +1,6 @@
 ---
 title:  "Woodland’s Digital Minds Robotics Team Set to Host Robotics Camps This Summer"
-date:   2023-01-28
+date:   2021-06-05
 layout: single
 ---
 
