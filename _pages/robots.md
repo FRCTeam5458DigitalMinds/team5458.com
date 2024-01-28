@@ -39,8 +39,14 @@ LINK REFERENCES BELOW
 [robots]: /robots/
 
 
+[cranium-1]: /images/robots/2023/womaninflower.jpg
+[cranium-1-full]: /images/robots/2023/womaninflower-full.jpg
+
+
+{::comment}
 [cranium-1]: /images/robots/2023/2023CraniumDefalt.png
 [cranium-1-full]: /images/robots/2023/2023CraniumDefalt-full.png
+{:/comment}
 
 [axon-1]: /images/robots/2019/axon-1.jpg
 [axon-1-full]: /images/robots/2019/axon-1-full.jpg
