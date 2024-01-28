@@ -38,6 +38,10 @@ LINK REFERENCES BELOW
 [home]: /
 [robots]: /robots/
 
+
+[cranium-1]: /images/robots/2023/2023CraniumDefalt.png
+[cranium-1-full]: /images/robots/2023/2023CraniumDefalt-full.png
+
 [axon-1]: /images/robots/2019/axon-1.jpg
 [axon-1-full]: /images/robots/2019/axon-1-full.jpg
 
@@ -53,9 +57,6 @@ LINK REFERENCES BELOW
 [Mini CIMs]: https://www.vexrobotics.com/217-3371.html
 [Colson Performa]: https://www.colsoncaster.com/wheel/performa-conductive/
 [DuraOmni]: https://www.andymark.com/products/4-in-duraomni-wheel
-
-[cranium-1]: /images/robots/2023/2023CraniumDefalt.png
-[cranium-1-full]: /images/robots/2023/2023CraniumDefalt-full.png
 
 
 
