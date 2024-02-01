@@ -1,10 +1,10 @@
-
 ---
 layout: single
 title: Robots
 toc: true
 permalink: /robots/
 ---
+
 ## 2023 - Cranium
 Cranium is our 2023 competition robot for Charged Up
 
