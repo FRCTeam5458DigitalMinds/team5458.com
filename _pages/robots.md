@@ -7,9 +7,13 @@ permalink: /robots/
 
 
 ## 2023 - Cranium
-Cranium is our 2023 competition robot for Charged Up
+Cranium is our 2023 competition robot for Charged Up.
 
 [![cranium-1]][cranium-1-full]{:data-fancybox=""}
+
+### Specifications
+
+| [![cranium-cad]][cranium-cad-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's CAD model. Modelled in OnShape"} | [![cranium-drivetrain]][cranium-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's Drivetrain CAD"} | [![cranium-gearbox]][cranium-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's 5:1 Gearbox"} |
 
 
 ## 2019 - Axon & Axoff
@@ -40,8 +44,17 @@ LINK REFERENCES BELOW
 [robots]: /robots/
 
 
-[cranium-1]: /images/robots/2023/2023CraniumDefalt.png
-[cranium-1-full]: /images/robots/2023/2023CraniumDefalt-full.png
+[cranium-1]: /images/robots/2023/ActualCranium2023.png
+[cranium-1-full]: /images/robots/2023/ActualCranium2023-full.png
+
+[cranium-cad]: /images/robots/2023/2023CraniumDefalt.png
+[cranium-cad-2x]: /images/robots/2023/2023CraniumDefalt-full.png
+
+[cranium-drivetrain]: /images/robots/2023/CraniumDrivetrain.png
+[cranium-drivetrain-2x]: /images/robots/2023/CraniumDrivetrain-full.png
+
+[cranium-gearbox]: /images/robots/2023/CraniumGearbox.png
+[cranium-gearbox-2x]: /images/robots/2023/CraniumGearbox-full.png
 
 
 [axon-1]: /images/robots/2019/axon-1.jpg
