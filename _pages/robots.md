@@ -43,14 +43,11 @@ Reflex is our 2022 competition robot for Rapid React.
 {:/comment}
 
 
-## 2021 - Infinite Recharge at Home
-Reflex is our 2022 competition robot for Rapid React.
+## 2021 - Cortex: Infinite Recharge at Home
+Cortex is our 2021 competition robot Infinite Recharge. This competition was cancelled due to COVID-19.
 
-[![reflex-1]][cranium-1-full]{:data-fancybox=""}
+[![cortex-cad]][cortex-cad-2x]{:data-fancybox="cad-gallery" data-caption="Cortex's CAD model. Modelled in OnShape"}
 
-### Specifications
-
-| [![reflex-cad]][reflex-cad-2x]{:data-fancybox="cad-gallery" data-caption="Reflex's CAD model. Modelled in OnShape"} | [![reflex-drivetrain]][reflex-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Reflex's Drivetrain CAD"} | [![reflex-gearbox]][reflex-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Reflex's 5:1 Gearbox"} |
 
 
 
@@ -63,7 +60,10 @@ Axon is our 2019 competition robot for Destination: Deep Space.
 
 ### Specifications
 
-| [![axon-cad]][axon-cad-2x]{:data-fancybox="cad-gallery" data-caption="Axon's CAD model. Modelled in OnShape"} | [![axon-drivetrain]][axon-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Axon's Drivetrain CAD"} | [![axon-gearbox]][axon-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Axon's 5:1 Gearbox"} |
+| [![axon-cad]][axon-cad-2x]{:data-fancybox="cad-gallery" data-caption="Axon's CAD model. Modelled in OnShape"} | [![axon-drivetrain]][axon-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Axon's Drivetrain CAD"} |
+
+
+{::comment}
 
 ### Drivetrain
 
@@ -76,7 +76,7 @@ Axon is our 2019 competition robot for Destination: Deep Space.
 | **Top Speed**  | 16.5 ft/s                       |
 
 
-{::comment}
+
 LINK REFERENCES BELOW
 {:/comment}
 
@@ -110,6 +110,12 @@ LINK REFERENCES BELOW
 
 [reflex-gearbox]: /images/robots/2023/ReflexGearbox.png
 [reflex-gearbox-2x]: /images/robots/2023/ReflexGearbox-full.png
+
+
+
+
+[cortex-cad]: /images/robots/2023/CortexCAD.png
+[cortex-cad-2x]: /images/robots/2023/CortexCAD-full.png
 
 
 
