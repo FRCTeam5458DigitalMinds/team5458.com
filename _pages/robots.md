@@ -144,9 +144,3 @@ LINK REFERENCES BELOW
 [Colson Performa]: https://www.colsoncaster.com/wheel/performa-conductive/
 [DuraOmni]: https://www.andymark.com/products/4-in-duraomni-wheel
 
-
-
-## 2018 - CNS
-CNS is our 2018 competition robot for Power Up
-
-
