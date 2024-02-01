@@ -13,10 +13,37 @@ Cranium is our 2023 competition robot for Charged Up.
 
 ### Specifications
 
-| [![cranium-cad]][cranium-cad-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's CAD model. Modelled in OnShape"} | [![cranium-drivetrain]][cranium-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's Drivetrain CAD"} | [![cranium-gearbox]][cranium-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's 5:1 Gearbox"} |
+| [![cranium-cad]][cranium-cad-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's CAD model. Modelled in OnShape"} | [![cranium-drivetrain]][cranium-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's Drivetrain CAD"} | 
+
+
+
+
+{::comment}
+[![cranium-gearbox]][cranium-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Cranium's 5:1 Gearbox"} |
+{:/comment}
+
+
+
+
 
 
 ## 2022 - Reflex
+Reflex is our 2022 competition robot for Rapid React.
+
+[![reflex-1]][cranium-1-full]{:data-fancybox=""}
+
+### Specifications
+
+| [![reflex-cad]][reflex-cad-2x]{:data-fancybox="cad-gallery" data-caption="Reflex's CAD model. Modelled in OnShape"} | [![reflex-drivetrain]][reflex-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Reflex's Drivetrain CAD"} | 
+
+
+
+{::comment}
+[![reflex-gearbox]][reflex-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Reflex's 5:1 Gearbox"} |
+{:/comment}
+
+
+## 2021 - Infinite Recharge at Home
 Reflex is our 2022 competition robot for Rapid React.
 
 [![reflex-1]][cranium-1-full]{:data-fancybox=""}
