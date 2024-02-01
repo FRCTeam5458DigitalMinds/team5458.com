@@ -43,11 +43,10 @@ Reflex is our 2022 competition robot for Rapid React.
 {:/comment}
 
 
-## 2021 - Cortex: Infinite Recharge at Home
-Cortex is our 2021 competition robot Infinite Recharge. This competition was cancelled due to COVID-19.
+## 2020 & 2021 - Cortex: Infinite Recharge at Home
+Cortex is our 2021 competition robot for Infinite Recharge. This competition was cancelled due to COVID-19.
 
 [![cortex-cad]][cortex-cad-2x]{:data-fancybox="cad-gallery" data-caption="Cortex's CAD model. Modelled in OnShape"}
-
 
 
 
@@ -61,6 +60,12 @@ Axon is our 2019 competition robot for Destination: Deep Space.
 ### Specifications
 
 | [![axon-cad]][axon-cad-2x]{:data-fancybox="cad-gallery" data-caption="Axon's CAD model. Modelled in OnShape"} | [![axon-drivetrain]][axon-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Axon's Drivetrain CAD"} |
+
+
+## 2018 - CNS
+CNS is our 2018 competition robot for Power Up.
+
+[![CNS-1]][CNS-1-full]{:data-fancybox=""}
 
 
 {::comment}
@@ -117,6 +122,9 @@ LINK REFERENCES BELOW
 [cortex-cad]: /images/robots/2023/CortexCAD.png
 [cortex-cad-2x]: /images/robots/2023/CortexCAD-full.png
 
+
+[CNS-1]: /images/robots/2023/ActualCNS.png
+[CNS-1-full]: /images/robots/2023/ActualCNS-full.png
 
 
 
