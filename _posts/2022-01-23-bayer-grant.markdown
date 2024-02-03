@@ -8,5 +8,3 @@ See the Daily Democrat article below detailing Digital Minds Robotics being Baye
 
 [Daily Democrat Article](https://www.dailydemocrat.com/2022/01/23/woodlands-digital-minds-robotics-team-receives-a-3000-grant-from-bayer-fund/)
 
-
-

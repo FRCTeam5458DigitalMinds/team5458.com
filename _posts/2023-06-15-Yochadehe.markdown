@@ -4,6 +4,6 @@ date:   2023-06-15
 layout: single
 ---
 
-See the Daily Democrat article below regarding Digital Minds Robotic being Bayer Grant Recipients.
+See the Daily Democrat article below regarding Digital Minds Robotics being Yocha Dehe Giving Recipients.
 
 [Daily Democrat Article](https://www.dailydemocrat.com/2023/06/15/woodlands-5458-digital-minds-robotics-team-receives-15000-grant-from-yocha-dehe-giving/)
