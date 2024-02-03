@@ -19,14 +19,6 @@
   image: bayer_monsanto.jpg
   link: https://monsanto.com/
   importance: 0
-
-- name: The Brin Wojcicki Foundation
-  importance: 0
-
-- name: Armstrong Insurance
-  image: armstrong-insurance.jpg
-  link: https://www.armstrongprofessional.com/
-  importance: 0
   
   name: Yolo Federal Credit Union
   image: yolo.png
@@ -37,10 +29,6 @@
   image: Yolo Ice & Creamery.jpg
   link: http://www.yoloiceandcreamery.com/
   importance: 3
-
-- name: Luna Vista Rotary Club
-  link: https://portal.clubrunner.ca/4973/
-  importance: 1
   
   name: Yolo Machinery Erectors
   link: https://woodlandchamber.org/directory/engineers/yolo-machinery-erectors-inc/
@@ -57,22 +45,6 @@
   link: http://cristgroup.com/
   importance: 2
 
-- name: BZ Bee Pollination Inc.
-  importance: 2
-  
-  name: Four Wheel
-  link: https://fourwheelcampers.com/
-  importance: 3
-
-- name: Penrose Family
-  importance: 3
-
-- name: Blue Wing Gallery
-  link: http://bluewinggallery.com/
-  importance: 3
-
-- name: Ed Ochoa Family Properties
-  importance: 4
 
 - name: Corner Drug Co.
   link: https://cornerdrugco.com/
@@ -82,8 +54,6 @@
   link: http://ponticelloinc.com/
   importance: 4
 
-- name: Pat Garrison
-  importance: 4
 
 - name: Citrus Circuits
   link: https://www.citruscircuits.org/
