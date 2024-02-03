@@ -9,8 +9,6 @@ main:
     url: /support/
   - title: "Posts"
     url: /posts-archive/
-  - title: "Photos"
-    url: /photos/
   - title: "Robots"
     url: /robots/
   - title: "Contact Us"
