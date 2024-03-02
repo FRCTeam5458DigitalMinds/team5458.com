@@ -5,7 +5,7 @@ permalink: /alumni/
 toc: true
 ---
 
-## Imtroduction
+## Introduction
 Welcome to Alumni Spotlights, celebrating a decade of innovation and excellence! As we mark our ten-year anniversary, we honor the remarkable individuals who have shaped our legacy.
 
 This platform pays tribute to our dedicated alumni, showcasing their post-graduation achievements and contributions to robotics and beyond. From attending top universities to launching startups and earning certifications, each member has made a lasting impact on our community, showcasing the possibilities STEM education opens for all.
@@ -26,9 +26,4 @@ During his time on the team, Josh honed invaluable skills such as work ethic and
 
 Drawing from his robotics experience, Josh emphasizes the significance of pursuing happiness and fulfillment in one's journey, urging current members to remain dedicated to their chosen paths: “Whatever you are training to do, make it something that you enjoy doing.” He highlights that robotics isn't solely about wielding power tools; it encompasses administrative and programming skills, offering a multifaceted learning platform.
 
-### Favorite Robot: Axon from 2019 Deep Space
- He marvels at the intricate design of the elevator and recalls the joy of its construction.
-
-### Favorite Memory: Success at 2022 Sacramento Regional
-Josh fondly remembers the triumphant moment of being hoisted onto the shoulders of his team members after success in the Sacramento Regional and securing a spot in the championships.
 
