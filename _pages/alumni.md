@@ -26,9 +26,9 @@ During his time on the team, Josh honed invaluable skills such as work ethic and
 
 Drawing from his robotics experience, Josh emphasizes the significance of pursuing happiness and fulfillment in one's journey, urging current members to remain dedicated to their chosen paths: “Whatever you are training to do, make it something that you enjoy doing.” He highlights that robotics isn't solely about wielding power tools; it encompasses administrative and programming skills, offering a multifaceted learning platform.
 
-Reflecting on his favorite robot, the 2019 Deep Space is special in Josh’s heart. He marvels at the intricate design of the elevator and recalls the joy of its construction.
+### Favorite Robot: Axon from 2019 Deep Space
+ He marvels at the intricate design of the elevator and recalls the joy of its construction.
 
-Among his most cherished memories is the excitement of the 2022 World Championship qualification. Josh fondly remembers the triumphant moment of being hoisted onto the shoulders of his team members after success in the Sacramento Regional and securing a spot in the championships.
-
-With a steadfast commitment to his craft and a wealth of experiences garnered from robotics, Josh continues to inspire and excel on his professional welding journey.
+### Favorite Memory: Success at 2022 Sacramento Regional
+Josh fondly remembers the triumphant moment of being hoisted onto the shoulders of his team members after success in the Sacramento Regional and securing a spot in the championships.
 
