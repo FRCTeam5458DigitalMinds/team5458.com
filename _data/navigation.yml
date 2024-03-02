@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "History"
     url: /history/
+  - title: "Alumni Spotlights"
+    url: /alumni/
   - title: "Sponsors"
     url: /sponsors/
   - title: "Support Us"
