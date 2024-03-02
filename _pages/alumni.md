@@ -17,9 +17,7 @@ Join us in celebrating our alumni's accomplishments and inspiring future generat
 <img src="/images/Alumni/JoshH-at-Clark-Pacific.jpg" alt="Josh working at Clark Pacific" style="width: 250px;" />
 
 High School Graduation Year: 2022
-
 Years on Team: 2018-2022
-
 Roles on Team: Mechanical Lead
 
 Post-high school, Josh embarked on his journey at American River Community College, where he dove deeper into welding while simultaneously working at Big O Tire. His passion for welding led him to pursue a career in the field, currently undergoing training to become a welder and mechanical welding arm technician at Clark Pacific, a role he enthusiastically took on just a few weeks ago.
