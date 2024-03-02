@@ -5,7 +5,16 @@ permalink: /alumni/
 toc: true
 ---
 
+## Imtroduction
+Welcome to Alumni Spotlights, celebrating a decade of innovation and excellence! As we mark our ten-year anniversary, we honor the remarkable individuals who have shaped our legacy.
+
+This platform pays tribute to our dedicated alumni, showcasing their post-graduation achievements and contributions to robotics and beyond. From attending top universities to launching startups and earning certifications, each member has made a lasting impact on our community, showcasing the possibilities STEM education opens for all.
+
+Join us in celebrating our alumni's accomplishments and inspiring future generations of innovators.
+
 ## Joshua ("Josh") Hunter
+
+<img src="/images/Alumni/JoshH-at-Clark-Pacific.jpg" alt="Josh working at Clark Pacific" style="width: 300px;" />
 
 High School Graduation Year: 2022
 Years on Team: 2018-2022
