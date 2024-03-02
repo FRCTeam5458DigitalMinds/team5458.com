@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Alumni Spotlights
+title: Alumni
 permalink: /alumni/
 toc: true
 ---
