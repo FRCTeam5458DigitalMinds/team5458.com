@@ -14,7 +14,7 @@ Join us in celebrating our alumni's accomplishments and inspiring future generat
 
 ## Joshua ("Josh") Hunter
 
-<img src="/images/Alumni/JoshH-at-Clark-Pacific.jpg" alt="Josh working at Clark Pacific" style="width: 300px;" />
+<img src="/images/Alumni/JoshH-at-Clark-Pacific.jpg" alt="Josh working at Clark Pacific" style="width: 250px;" />
 
 High School Graduation Year: 2022
 Years on Team: 2018-2022
