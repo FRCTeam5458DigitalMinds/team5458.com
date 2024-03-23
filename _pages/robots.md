@@ -17,6 +17,8 @@ Amygdala is our 2024 competition robot for Crescendo.
 | [![amy-cad]][amy-cad-2x]{:data-fancybox="cad-gallery" data-caption="Amygdala's CAD model. Modelled in OnShape"} | [![amy-drivetrain]][amy-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Amygdala's Drivetrain CAD"} | 
 
 
+
+
 ## 2023 - Cranium
 
 
@@ -118,7 +120,7 @@ LINK REFERENCES BELOW
 [amy-1]: /images/robots/2024/amygdala_2024032301.JPG
 [amy-1-full]: /images/robots/2024/AmyDrivetrainFull.png
 
-[amy-cad]: /images/robots/2024/Final%20Assembly%202024.png
+[amy-cad]: /images/robots/2024/AmyCadFull1.png
 [amy-cad-2x]: /images/robots/2024/team5458_sac_regional_2024_full.jpg
 
 [amy-drivetrain]: /images/robots/2024/AmyDrivetrain.png
