@@ -10,7 +10,7 @@ $(function() {
   var stickySideBar = function() {
     var show =
       $(".author__urls-wrapper").find("button").length === 0
-        ? $(window).width() > 1024 // width should match $large Sass variable
+        ? $(window).width() > 700 // width should match $large Sass variable
         : !$(".author__urls-wrapper").find("button").is(":visible");
     if (show) {
       // fix

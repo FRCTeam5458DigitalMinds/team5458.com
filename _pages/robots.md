@@ -6,7 +6,19 @@ permalink: /robots/
 ---
 
 
-## 2023 - Cranium
+## 2024 - Amygdala
+
+Amygdala is our 2024 competition robot for Crescendo.
+
+[![amy-1]][amy-1-full]{:data-fancybox=""}
+
+### Specifications
+
+| [![amy-cad]][amy-cad-2x]{:data-fancybox="cad-gallery" data-caption="Amygdala's CAD model. Modelled in OnShape"} | [![amy-drivetrain]][amy-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Amygdala's Drivetrain CAD"} | 
+
+
+
+
 Cranium is our 2023 competition robot for Charged Up.
 
 [![cranium-1]][cranium-1-full]{:data-fancybox=""}
@@ -100,6 +112,16 @@ LINK REFERENCES BELOW
 
 [cranium-gearbox]: /images/robots/2023/CraniumGearbox.png
 [cranium-gearbox-2x]: /images/robots/2023/CraniumGearbox-full.png
+
+
+[amy-1]: /images/robots/2024/team5458_sac_regional_2024.jpg
+[amy-1-full]: /images/robots/2024/AmyDrivetrainFull.png
+
+[amy-cad]: /images/robots/2024/Final%20Assembly%202024.png
+[amy-cad-2x]: /images/robots/2024/team5458_sac_regional_2024_full.jpg
+
+[amy-drivetrain]: /images/robots/2024/AmyDrivetrain.png
+[amy-drivetrain-2x]: /images/robots/2024/AmyDrivetrainFull.png
 
 
 
