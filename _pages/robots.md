@@ -101,10 +101,10 @@ LINK REFERENCES BELOW
 [robots]: /robots/
 
 
-[cranium-1]: /images/robots/2023/ActualCranium2023.png?w=978
+[cranium-1]: /images/robots/2023/ActualCranium2023.png
 [cranium-1-full]: /images/robots/2023/ActualCranium2023-full.png
 
-[cranium-cad]: /images/robots/2023/2023CraniumDefalt.png
+[cranium-cad]: /images/robots/2023/2023CraniumDefalt.png?w=200
 [cranium-cad-2x]: /images/robots/2023/2023CraniumDefalt-full.png
 
 [cranium-drivetrain]: /images/robots/2023/CraniumDrivetrain.png
@@ -114,7 +114,7 @@ LINK REFERENCES BELOW
 [cranium-gearbox-2x]: /images/robots/2023/CraniumGearbox-full.png
 
 
-[amy-1]: /images/robots/2024/team5458_sac_regional_2024.jpg?w=100
+[amy-1]: /images/robots/2024/amygdala_20240323.JPG
 [amy-1-full]: /images/robots/2024/AmyDrivetrainFull.png
 
 [amy-cad]: /images/robots/2024/Final%20Assembly%202024.png
