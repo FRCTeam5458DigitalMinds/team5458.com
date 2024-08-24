@@ -13,7 +13,7 @@ feature_row:
   - image_path: images/digitalminds.png
   - image_path: images/firstlogo.png
 ---
-<p style="text-align: center;">[Interest Form](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
+<p style="text-align: center;">[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
 </p>
 
 
