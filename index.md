@@ -13,7 +13,7 @@ feature_row:
   - image_path: images/digitalminds.png
   - image_path: images/firstlogo.png
 ---
-[Interest Form] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Interest Form](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 {% include feature_row id="intro" type="center" %}
 
