@@ -118,10 +118,10 @@ LINK REFERENCES BELOW
 
 
 [amy-1]: /images/robots/2024/amygdala_2024032301.JPG
-[amy-1-full]: /images/robots/2024/AmyDrivetrainFull.png
+[amy-1-full]: /images/robots/2024/team5458_sac_regional_2024_full.jpg
 
 [amy-cad]: /images/robots/2024/AmyCadFull1.png
-[amy-cad-2x]: /images/robots/2024/team5458_sac_regional_2024_full.jpg
+[amy-cad-2x]: /images/robots/2024/AmyCadFull1.png
 
 [amy-drivetrain]: /images/robots/2024/AmyDrivetrain.png
 [amy-drivetrain-2x]: /images/robots/2024/AmyDrivetrainFull.png
