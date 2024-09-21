@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: outreach 
+title: Outreach 
 toc: true 
 permalink: /outreach/ 
 ---
