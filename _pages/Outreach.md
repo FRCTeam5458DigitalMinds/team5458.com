@@ -16,12 +16,10 @@ For more information, please fill out this interest form: https://forms.gle/L5xD
 Our annual robotics summer camp is available for grades 4th through 8th. The three-week-long camp, broken into 3 sessions, takes students through a project-based challenge, in which students learn how to design, build, and program a robot. The program features a fun and interactive competition with peers, where students get to put their creations to the test. 
 For more information, please contact: frc5458@gmail.com
 
-<img src="/images/TeamOureach/SummerCamp 1.JPG" style="width: 150px;" />
-<img src="/images/TeamOureach/SummerCamp 2.JPG" style="width: 150px;" />
+<img src="/images/TeamOureach/SummerCamp 1.JPG" style="width: 150px;" /> <img src="/images/TeamOureach/SummerCamp 2.JPG" style="width: 150px;" />
 
 ## Other Activities:
 We have participated in other community events like the local Christmas parade and local fair. Many students were enthusiastic about the design and engineering process behind fabricating such a robust robot. Through these events we were able to reach out to thousands of community members. 
 We have also taken part in events such as Back to School nights and Club Rushes to generate interest and exhibit our seasonal robot. Students learned the importance of the team in our community and how they can get involved.
 
-<img src="/images/TeamOureach/Holidayparade.jpg" style="width: 150px;" />
-<img src="/images/TeamOureach/Yolofair.jpg" style="width: 150px;" />
+<img src="/images/TeamOureach/Holidayparade.jpg" style="width: 150px;" /> <img src="/images/TeamOureach/Yolofair.jpg" style="width: 150px;" />
