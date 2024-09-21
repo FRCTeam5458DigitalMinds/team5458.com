@@ -22,4 +22,4 @@ For more information, please contact: frc5458@gmail.com
 We have participated in other community events like the local Christmas parade and local fair. Many students were enthusiastic about the design and engineering process behind fabricating such a robust robot. Through these events we were able to reach out to thousands of community members. 
 We have also taken part in events such as Back to School nights and Club Rushes to generate interest and exhibit our seasonal robot. Students learned the importance of the team in our community and how they can get involved.
 
-<img src="/images/TeamOureach/Holidayparade.jpg" style="width: 150px;" /> <img src="/images/TeamOureach/Yolofair.jpg" style="width: 150px;" />
+<img src="/images/TeamOureach/Holidayparade.jpg" style="width: 300px;" /> <img src="/images/TeamOureach/Yolofair.jpg" style="width: 300px;" />
