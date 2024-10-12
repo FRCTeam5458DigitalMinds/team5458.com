@@ -6,6 +6,15 @@ toc: true
 ---
 
 Founded August 26, 2014, Team 5458 has built an amazing history over its 9 years.
+## 2024: Cresendo 
+In 2024, Team 5458 had an outstanding year, participating in two regional competitions with swerve drive for the first time. At the Sac Regional, we utilized our ingenuity throughout the competition which led us to 10th place out of 38 teams. At Sac we also won the Creativity Award, for our innovative and interesting design. At our second regional, Aerospace Valley, we successfully obtained 5th place out of 40 teams. We also received the Judges Award, this award was given to us because of our wide-range community outreach, STEM accessibility, and dedication to inclusivity. 
+
+Throughout the season and offseason we hosted multiple WISE (Women In Stem Empowerment) Events to encourage young children to become interested through various STEM activities. So far we’ve had more than 100+ students come to our WISE events. During the summer we held our annual robotics camps to give elementary and middle schoolers the opportunity to learn about STEM over the course of a week. We held three total camps: two beginner skill levels, and one intermediate. 
+
+In July, we took part in the first Sunset Showdown offseason competition, which took place on the deck of the USS Hornet in Alameda. For this competition we experimented with april tags to account for the outside environment of a ship. At this competition we finished 12th out of 40 teams. Our newer members acheived a lot of new experiences from this competition for the upcoming season.
+
+In August we volunteered at the Yolo County Fair and introduced children to robotics. Many students were enthusiastic about the design and engineering process behind fabricating such a robust robot. Through these events we were able to reach out to thousands of community members.
+
 ## 2023: Charged Up
 Team 5458 excelled in two regional robotics competitions, highlighting our dedication and innovation. At the FRC Sacramento Regional, we improved throughout the event, securing a commendable 25th place out of 46 teams in the qualification round, moving us to the finals. Our success continued at the FRC Silicon Valley Regional, where we secured an impressive 7th place out of 60 teams by the end. Our team was also awarded the Industrial Design Award for the use of 3D-printed parts as well as our unique and robust telescopic arm. In the playoffs, we captained the 5th-seeded alliance and won our first match but were eventually eliminated by the third seeded alliance.
 
