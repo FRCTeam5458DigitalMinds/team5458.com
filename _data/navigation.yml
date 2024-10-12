@@ -17,4 +17,6 @@ main:
     url: /contact/
   - title: "Calendar"
     url: /calendar/
-  
+  - title: "Outreach" 
+    url: /outreach/
+   
