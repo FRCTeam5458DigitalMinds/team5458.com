@@ -5,7 +5,7 @@ permalink: /history/
 toc: true
 ---
 
-Founded August 26, 2014, Team 5458 has built an amazing history over its 9 years.
+Founded August 26, 2014, Team 5458 has built an amazing history over its 10 years.
 ## 2024: Cresendo 
 In 2024, Team 5458 had an outstanding year, participating in two regional competitions with swerve drive for the first time. At the Sac Regional, we utilized our ingenuity throughout the competition which led us to 10th place out of 38 teams. At Sac we also won the Creativity Award, for our innovative and interesting design. At our second regional, Aerospace Valley, we successfully obtained 5th place out of 40 teams. We also received the Judges Award, this award was given to us because of our wide-range community outreach, STEM accessibility, and dedication to inclusivity. 
 
