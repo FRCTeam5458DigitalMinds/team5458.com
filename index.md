@@ -16,7 +16,7 @@ feature_row:
 Please complete this form if you are interested in joining Digital Minds:
 [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
 
-Come see us at the [Woodland Holiday Parade](https://members.woodlandchamber.org/chamber-calendar/Details/woodland-chamber-holiday-magic-parade-2024-1197951?sourceTypeId=Hub) on December 14th!
+Happy New Years! Welcome to the new build season!
 
 {% include feature_row id="intro" type="center" %}
 
