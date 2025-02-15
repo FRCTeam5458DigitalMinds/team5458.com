@@ -16,7 +16,7 @@ feature_row:
 Please complete this form if you are interested in joining Digital Minds:
 [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
 
-Happy New Years! Welcome to the new build season!
+Good luck to everyone this season!
 
 {% include feature_row id="intro" type="center" %}
 
