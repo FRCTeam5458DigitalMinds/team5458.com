@@ -6,6 +6,13 @@ toc: true
 ---
 
 Founded August 26, 2014, Team 5458 has built an amazing history over its 10 years.
+## 2025: Reefscape
+In 2025, team 5458 continued competing in the FIRST Robotics Competition for its 10th consecutive year: participating in two regional competitions, and one invitational competition. The first competition we participated in was the Sacramento Regional, where we made it to the semi-finals. To prepare ourselves, we made sure we practiced and fixed any minor faults that could affect our overall run in the regional. In the end, our team placed 20th out of 34 teams, but was chosen for the 4th alliance. The next competition was the Central Valley Regional, where we ended up ranking 20th out of 42 participants. In the Central Valley Regionals, we made it to the semi finals as well.
+
+After the two regional competitions, we took part in the Northern California Invitational. In that competition, we ranked 21st out of 26 participants. For the Northern California Invitational, we gained the Judges award for our robust demonstration of team outreach and dedication to our role of spreading STEM in our community.
+
+During the summer, we held three one week-long robotics camps aimed at kids from the 4th to 8th grade. Camp members learned how to build and program robots to complete different tasks and compete in a small-scale competition. The camps garnered lots of students enthusiastic about building and programming robots.
+
 ## 2024: Cresendo 
 In 2024, Team 5458 had an outstanding year, participating in two regional competitions with swerve drive for the first time. At the Sac Regional, we utilized our ingenuity throughout the competition which led us to 10th place out of 38 teams. At Sac we also won the Creativity Award, for our innovative and interesting design. At our second regional, Aerospace Valley, we successfully obtained 5th place out of 40 teams. We also received the Judges Award, this award was given to us because of our wide-range community outreach, STEM accessibility, and dedication to inclusivity. 
 
