@@ -7,11 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-html{
+html {
     background-color: #E8E8E8;
-    body-color: #E8E8E8; 
 }
 
-.site-title, .page-link {
- color: black !important;
+.site-title, 
+.page-link {
+    color: black !important;
 }
