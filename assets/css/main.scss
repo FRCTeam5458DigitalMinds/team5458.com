@@ -7,6 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$color-maroon: #85003c; // Digital Minds maroon
+
 html {
     background-color: #E8E8E8;
 }
@@ -14,4 +16,19 @@ html {
 .site-title, 
 .page-link {
     color: black !important;
+}
+
+.navicon, 
+.navicon:before, 
+.navicon:after, 
+.page__footer {
+    background: $color-maroon;
+}
+
+.search__toggle {
+    color: $color-maroon;
+}
+
+.page__footer {
+    color: #fff;
 }
