@@ -16,7 +16,7 @@ feature_row:
 Please complete this form if you are interested in joining Digital Minds:
 [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
 
-We’re really excited for our next competition at the Capital City Classic in Sacramento!! Good luck to everyone out there. 
+Come see us show off our robot at the [Woodland holiday parade](https://members.woodlandchamber.org/chamber-events/Details/woodland-chamber-holiday-parade-on-main-2025-1373710) on December 13th!!! 
 
 {% include feature_row id="intro" type="center" %}
 
