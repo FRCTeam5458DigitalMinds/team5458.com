@@ -16,7 +16,9 @@ feature_row:
 Please complete this form if you are interested in joining Digital Minds:
 [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
 
-Come see us show off our robot at the [Woodland holiday parade](https://members.woodlandchamber.org/chamber-events/Details/woodland-chamber-holiday-parade-on-main-2025-1373710) on December 13th!!! 
+As of January 10th, the robotics competition season has started! Build season has been going well. Our team members have had a lot of fun during kickoff, and have been working very hard on getting our 2026 robot put together.
+
+¡A partir del 10 de enero, ha comenzado la temporada de competiciones de robótica! La fase de construcción ha ido muy bien. Nuestros miembros del equipo se lo han pasado muy bien juntamos la robótica para nuestra temporada 2026.
 
 {% include feature_row id="intro" type="center" %}
 
