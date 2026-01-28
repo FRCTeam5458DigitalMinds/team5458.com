@@ -5,7 +5,7 @@ toc: true
 permalink: /robots/
 ---
 
-## 2025 - Basal Ganglia
+## 2025 - Ganglia
 
 Ganglia is our 2025 competition robot for Reefscape.
 
