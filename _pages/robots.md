@@ -5,6 +5,16 @@ toc: true
 permalink: /robots/
 ---
 
+## 2025 - Basal Ganglia
+
+Ganglia is our 2025 competition robot for Reefscape.
+
+[![ganglia-1]][ganglia-1-full]{:data-fancybox=""}
+
+### Specifications
+
+| [![ganglia-cad]][ganglia-cad-2x]{:data-fancybox="cad-gallery" data-caption="Ganglia's CAD model. Modelled in OnShape"} | [![ganglia-drivetrain]][ganglia-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Ganglia's Drivetrain CAD"} | 
+
 
 ## 2024 - Amygdala
 
@@ -126,7 +136,14 @@ LINK REFERENCES BELOW
 [amy-drivetrain]: /images/robots/2024/AmyDrivetrain.png
 [amy-drivetrain-2x]: /images/robots/2024/AmyDrivetrainFull.png
 
+[ganglia-1]: /images/robots/2025/basalgangliarobot2025.jpg
+[ganglia-1-full]: /images/robots/2025/basalgangliarobot2025.jpg
 
+[ganglia-cad]: /images/robots/2025/basalgangliacadfull.png
+[ganglia-cad-2x]: /images/robots/2025/basalgangliacadfull.png
+
+[ganglia-drivetrain]: /images/robots/2025/basalgangliadrivetrain.png
+[ganglia-drivetrain-2x]: /images/robots/2025/basalgangliadrivetrain.png
 
 
 [reflex-1]: /images/robots/2023/ActualReflex.png
