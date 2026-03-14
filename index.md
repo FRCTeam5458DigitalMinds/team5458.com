@@ -16,7 +16,7 @@ feature_row:
 Please complete this form if you are interested in joining Digital Minds:
 [Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfM9wY5ayb9wn-CtvzViNqw7iyNYpXUoOZe1ccp3-z6jzS5iA/viewform)
 
-Our team has demonstrated hard work and dedication over the last few weeks approaching our first competition. All in all, we're looking forward to competing at the Sacramento District Event on March 21st!
+Our team has demonstrated hard work and dedication over the last few weeks approaching our first competition. All in all, we're looking forward to competing at the Sacramento District Event on March 21st.
 
 {% include feature_row id="intro" type="center" %}
 
